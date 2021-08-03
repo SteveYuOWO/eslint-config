@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-steveyuowo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🌟 Steve Yu's eslint workflow, forked from aftership",
   "homepage": "https://github.com/SteveYuOWO/eslint-config-steveyuowo",
   "reports": {
