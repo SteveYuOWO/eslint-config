@@ -1,12 +1,41 @@
 {
   "name": "eslint-config",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "🌟 Steve Yu's eslint workflow, forked from aftership",
+  "homepage": "https://github.com/SteveYuOWO/eslint-config",
+  "reports": {
+    "type": "git",
+    "url": "https://github.com/SteveYuOWO/eslint-config"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/SteveYuOWO/eslint-config/issues"
+  },
+  "author": {
+    "name": "Steve Yu",
+    "email": "littlepageprogram@163.com"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 10"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "prepush": "npm run lint"
+  },
+  "peerDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "husky": "^7.0.1"
+  },
+  "dependencies": {
+    "eslint-restricted-globals": "^0.2.0"
+  },
+  "keywords": [
+    "steveyu",
+    "eslint"
+  ],
+  "license": "MIT",
+  "private": false
 }
