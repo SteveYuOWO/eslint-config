@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 eslint Config
+# 🧑🏽‍💻 eslint config steveyuowo
 
 SteveYu eslint workflow config(modified from eslint-config-aftership)
 

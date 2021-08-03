@@ -1,14 +1,14 @@
 {
   "name": "eslint-config-steveyuowo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🌟 Steve Yu's eslint workflow, forked from aftership",
-  "homepage": "https://github.com/SteveYuOWO/eslint-config",
+  "homepage": "https://github.com/SteveYuOWO/eslint-config-steveyuowo",
   "reports": {
     "type": "git",
-    "url": "https://github.com/SteveYuOWO/eslint-config"
+    "url": "https://github.com/SteveYuOWO/eslint-config-steveyuowo"
   },
   "bugs": {
-    "url": "https://github.com/SteveYuOWO/eslint-config/issues"
+    "url": "https://github.com/SteveYuOWO/eslint-config-steveyuowo/issues"
   },
   "author": {
     "name": "Steve Yu",
